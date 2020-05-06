@@ -1,3 +1,5 @@
+This is a test of CxFlow...  Do not use for any other purpose.
+
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
 > ### Please note that The BodgeIt Store is no longer being worked on
